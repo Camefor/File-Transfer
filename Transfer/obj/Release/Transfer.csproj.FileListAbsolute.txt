@@ -1,0 +1,10 @@
+D:\Documents\LearnDotNet Core\Transfer\bin\Release\Transfer.exe.config
+D:\Documents\LearnDotNet Core\Transfer\bin\Release\Transfer.exe
+D:\Documents\LearnDotNet Core\Transfer\bin\Release\Transfer.pdb
+D:\Documents\LearnDotNet Core\Transfer\obj\Release\Transfer.Form1.resources
+D:\Documents\LearnDotNet Core\Transfer\obj\Release\Transfer.ProjectInstaller.resources
+D:\Documents\LearnDotNet Core\Transfer\obj\Release\Transfer.Properties.Resources.resources
+D:\Documents\LearnDotNet Core\Transfer\obj\Release\Transfer.csproj.GenerateResource.cache
+D:\Documents\LearnDotNet Core\Transfer\obj\Release\Transfer.exe
+D:\Documents\LearnDotNet Core\Transfer\obj\Release\Transfer.pdb
+D:\Documents\LearnDotNet Core\Transfer\obj\Release\Transfer.csprojAssemblyReference.cache

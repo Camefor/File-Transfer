@@ -1,0 +1,24 @@
+D:\Documents\LearnDotNet Core\Transfer\bin\Debug\Transfer.exe.config
+D:\Documents\LearnDotNet Core\Transfer\bin\Debug\Transfer.exe
+D:\Documents\LearnDotNet Core\Transfer\bin\Debug\Transfer.pdb
+D:\Documents\LearnDotNet Core\Transfer\obj\Debug\Transfer.Form1.resources
+D:\Documents\LearnDotNet Core\Transfer\obj\Debug\Transfer.Properties.Resources.resources
+D:\Documents\LearnDotNet Core\Transfer\obj\Debug\Transfer.csproj.GenerateResource.cache
+D:\Documents\LearnDotNet Core\Transfer\obj\Debug\Transfer.exe
+D:\Documents\LearnDotNet Core\Transfer\obj\Debug\Transfer.pdb
+D:\Documents\LearnDotNet Core\Transfer\obj\Debug\Transfer.ProjectInstaller.resources
+D:\Documents\LearnDotNet Core\Transfer\bin\Debug\Topshelf.dll
+D:\Documents\LearnDotNet Core\Transfer\obj\Debug\Transfer.csproj.CopyComplete
+D:\Documents\LearnDotNet Core\Transfer\bin\Debug\Topshelf.xml
+D:\Documents\LearnDotNetCore\Transfer\bin\Debug\Transfer.exe.config
+D:\Documents\LearnDotNetCore\Transfer\bin\Debug\Transfer.exe
+D:\Documents\LearnDotNetCore\Transfer\bin\Debug\Transfer.pdb
+D:\Documents\LearnDotNetCore\Transfer\bin\Debug\Topshelf.dll
+D:\Documents\LearnDotNetCore\Transfer\bin\Debug\Topshelf.xml
+D:\Documents\LearnDotNetCore\Transfer\obj\Debug\Transfer.Form1.resources
+D:\Documents\LearnDotNetCore\Transfer\obj\Debug\Transfer.Properties.Resources.resources
+D:\Documents\LearnDotNetCore\Transfer\obj\Debug\Transfer.csproj.GenerateResource.cache
+D:\Documents\LearnDotNetCore\Transfer\obj\Debug\Transfer.csproj.CopyComplete
+D:\Documents\LearnDotNetCore\Transfer\obj\Debug\Transfer.exe
+D:\Documents\LearnDotNetCore\Transfer\obj\Debug\Transfer.pdb
+D:\Documents\LearnDotNetCore\Transfer\obj\Debug\Transfer.csprojAssemblyReference.cache
